@@ -3,6 +3,6 @@ version: 1.0.0
 author: "Duplex"
 
 packs:
-  "minecraft:overworld": "OVERWORLD:OVERWORLD"
+  "minecraft:overworld": "ORIGEN:ORIGEN"
   "minecraft:the_nether": "TARTARUS:TARTARUS"
   "minecraft:the_end": "REIMAGEND:REIMAGEND"
